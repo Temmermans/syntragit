@@ -1,2 +1,2 @@
 console.log("kjjkfg");
-console.log("log van mijzelf");
+console.log("log van collega");
